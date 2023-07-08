@@ -2,5 +2,18 @@ baseURL = 'https://shirayunaa.github.io'
 languageCode = 'en-us'
 title = 'The Cozy Corner of Celest'
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "The Cozy Corner of Celest"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "The Cozy Corner of Celest"
+    weight = 2
+    contentDir = "content/fr"
+
 [params]
   description = "Ecrire mon esprit."
