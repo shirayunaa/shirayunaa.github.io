@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://shirayunaa.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Cozy Corner of Celest'
 theme = 'ananke'
+[params]
+  description = "Ecrire mon esprit."
